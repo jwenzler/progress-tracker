@@ -1,2 +1,7 @@
-export StepItem from './StepItem'
-export default from './Tracker'
+import StepItem from './StepItem'
+import Tracker from './Tracker'
+
+export {
+  StepItem,
+  Tracker
+}
